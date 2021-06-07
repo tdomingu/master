@@ -3,3 +3,6 @@ This is a test comment
 */
 1405980-8143
 This is test code.
+  autoload -Uz compinit
+  compinit
+This is test code.
